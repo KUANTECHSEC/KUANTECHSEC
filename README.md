@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 👋 Hi, My ID is KUANTECH
 - 🌱 I'm currently learning Web
 - ⚡ 我的QQ : ODQwNjg5NDMy
-- 💞️ My programming skills: Paython
+- 💞️ My programming skills: Python
 - 📫 日常活跃于各大平台, ID @KUANTECH
