@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 👀 I'm good at 红蓝攻防和渗透测试
 -->
-- ⚡ 我的QQ：ODQwNjg5NDMy
 - 👋 Hi, My ID is KUANTECH
+- ⚡ 我的QQ：ODQwNjg5NDMy
 - 🌱 I'm currently learning Web
 - 💞️ My programming skills: Paython
 - 📫 日常活跃于各大平台, ID @KUANTECH
