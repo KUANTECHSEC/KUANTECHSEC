@@ -1,10 +1,9 @@
-### Hi there 👋
+ Hi there 👋
 
 <!--
 **KUANTECHSEC/KUANTECHSEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👀 I'm good at 红蓝攻防和渗透测试
 -->
+⚡ 我的QQ：ODQwNjg5NDMy
+👋 Hi, My ID is KUANTECH
+🌱 I'm currently learning Web
+💞️ My programming skills: Paython
+📫 日常活跃于各大平台, ID @KUANTECH
